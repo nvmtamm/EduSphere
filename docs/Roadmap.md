@@ -1,36 +1,33 @@
-# EduSphere Roadmap
+# Roadmap
 
-## Version 0.1
+## Sprint 0
 
 - Repository Setup
-- Project Structure
+- Documentation
 
 ---
 
-## Version 0.2
+## Sprint 1
 
-Authentication
-
----
-
-## Version 0.3
-
-Course Module
+- Clean Architecture
+- Authentication
 
 ---
 
-## Version 0.4
+## Sprint 2
 
-Lesson Module
-
----
-
-## Version 0.5
-
-Assignment
+- Course Module
 
 ---
 
-## Version 1.0
+## Sprint 3
 
-Production Release
+- Lesson Module
+
+---
+
+## Sprint 4
+
+- Assignment
+
+(To be updated)
