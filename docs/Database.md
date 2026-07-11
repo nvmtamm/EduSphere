@@ -1,22 +1,15 @@
-# Database
+# Database Design
 
-## Target Platform
-SQL Server is the primary persistent store for the platform.
+Database: SQL Server
 
-## Data Design Principles
-- Normalize transactional data where it matters
-- Index based on common query paths
-- Keep foreign key relationships explicit
-- Separate reference data from user-generated data
+---
 
-## Planned Areas
-- Identity and access data
-- Course catalog and learning content
-- Enrollment and progress tracking
-- Assessment results and reporting
-- Audit and operational metadata
+## Tables
 
-## Maintenance Notes
-- Version schema changes through migrations
-- Back up database changes with rollback planning
-- Review performance on growth-sensitive queries
+(To be updated)
+
+---
+
+## Relationships
+
+(To be updated)
