@@ -1,23 +1,23 @@
-# API
+# API Documentation
 
-## API Style
-The backend API should follow predictable REST-style conventions with clear resource naming and versioned routes.
+## Base URL
 
-## Expected Resource Areas
-- Authentication
-- Users and roles
-- Courses and modules
-- Enrollments and progress
-- Assessments and results
-- Reporting and administration
+(To be updated)
 
-## Design Principles
-- Prefer resource-oriented URLs
-- Return consistent error formats
-- Validate requests at the boundary
-- Keep responses small and contract-driven
+---
 
-## Operational Expectations
-- Provide health endpoints for deployment checks
-- Include structured logs for request tracing
-- Document all public endpoints before release
+## Authentication
+
+(To be updated)
+
+---
+
+## Course
+
+(To be updated)
+
+---
+
+## Assignment
+
+(To be updated)
