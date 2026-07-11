@@ -1,8 +1,8 @@
-# EduSphere Requirements
+# Requirements
 
 ## Vision
 
-EduSphere is a Smart Learning Platform built for modern universities.
+EduSphere is a modern Smart Learning Platform.
 
 ---
 
@@ -22,10 +22,8 @@ EduSphere is a Smart Learning Platform built for modern universities.
 - Lesson Management
 - Assignment
 - Quiz
-- Discussion
-- Notification
-- Dashboard
 - Chat
+- Notification
 - AI Tutor
 
 ---
@@ -35,5 +33,5 @@ EduSphere is a Smart Learning Platform built for modern universities.
 - REST API
 - Docker
 - CI/CD
-- Unit Test
+- Unit Testing
 - Clean Architecture
